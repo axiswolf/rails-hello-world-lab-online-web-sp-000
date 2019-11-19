@@ -132,3 +132,6 @@ Started GET "/" for 198.72.222.52 at 2019-11-19 13:06:55 +0000
 Processing by HomeController#index as HTML
   Rendering home/index.html.erb within layouts/application
   Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 397ms (Views: 395.8ms | ActiveRecord: 0.0ms)
+
+
