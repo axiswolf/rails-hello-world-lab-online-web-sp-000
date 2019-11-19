@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
-  def index
+  def hello_world
   end
 
 end
